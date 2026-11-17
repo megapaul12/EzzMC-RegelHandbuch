@@ -1,5 +1,4 @@
  # 📜 EzzMC – Serverregeln
-## Teil 1: §1–§50
 
 ---
 
